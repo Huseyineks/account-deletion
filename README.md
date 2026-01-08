@@ -1,6 +1,6 @@
 🇬🇧 English
 
-App Name: Trendstore
+App Name: Trendstore,
 Developer: Nezir Coşkunkan
 
 You can delete your account directly in the Trendstore app by following this path:
@@ -16,7 +16,7 @@ Please include the email address associated with your account in your request.
 
 🇹🇷 Türkçe
 
-Uygulama Adı: Trendstore
+Uygulama Adı: Trendstore,
 Geliştirici: Nezir Coşkunkan
 
 Trendstore uygulaması üzerinden hesabınızı silmek için aşağıdaki yolu izleyebilirsiniz:
@@ -32,7 +32,7 @@ Lütfen e-postanızda hesabınıza kayıtlı e-posta adresini belirtiniz.
 
 🇷🇺 Русский
 
-Название приложения: Trendstore
+Название приложения: Trendstore,
 Разработчик: Nezir Coşkunkan
 
 Вы можете удалить свой аккаунт в приложении Trendstore, следуя этому пути:
